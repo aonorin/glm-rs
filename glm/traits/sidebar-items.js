@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["GenBType","Generic boolean type."],["GenDType",""],["GenFloat","Generic float number type."],["GenIType","Generic signed integer type."],["GenInt","Generic interger type."],["GenNum","Generic numeric type."],["GenType",""],["GenUType","Generic unsigned integer type."]]});

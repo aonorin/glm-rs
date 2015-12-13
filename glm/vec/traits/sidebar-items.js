@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["GenBVec","Generic boolean vector type."],["GenFloatVec","Generic type of vectors of float number."],["GenNumVec","Trait of all vector types that are GenNum."],["GenVec","Generic vector type."]]});

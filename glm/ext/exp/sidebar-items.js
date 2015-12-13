@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["cbrt","Returns the cubic root."],["pow2","`x * x`."],["pow3","`x * x * x`."],["powi","Raise a number to an integer power."]]});

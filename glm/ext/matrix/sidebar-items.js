@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["is_invertible","Returns `true` if the square matrix `m` is invertible, i.e., its determinant does not close or equal to `0`."],["trace","Returns the trace of a square matrix `m`."],["translate","Builds a translation 4 * 4 matrix created from a vector of 3 components."]]});

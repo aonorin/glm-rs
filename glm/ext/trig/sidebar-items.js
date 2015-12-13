@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["sin_cos","Simultaneously computes the sine and cosine of `x`, returns `(sin(x), cos(x))`."]]});

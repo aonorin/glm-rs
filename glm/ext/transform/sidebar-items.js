@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["translate","Builds a translation 4 * 4 matrix created from a vector of 3 components."]]});

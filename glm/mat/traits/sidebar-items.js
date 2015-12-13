@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["GenMat","Generic Matrix type."],["GenSquareMat","Generic type of square matrix."]]});

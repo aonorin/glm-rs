@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["noise1","Returns a 1D noise value based on the input value `x`."],["noise2","Returns a 2D noise value based on the input value `x`."],["noise3","Returns a 3D noise value based on the input value `x`."],["noise4","Returns a 4D noise value based on the input value `x`."]],"trait":[["NoiseImpl",""]]});
